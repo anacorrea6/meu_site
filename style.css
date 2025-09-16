@@ -1,0 +1,12 @@
+body {
+    /*
+    background-color: rgb(141, 140, 142);
+    */
+    background-image: url(src/imagens/kananaskis-9714444_1280.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: #873939;
+}
